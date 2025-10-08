@@ -69,8 +69,8 @@ This case demonstrates:
 ---
 
 ## 🧾 Supporting Documents
-- 📘 **Incident Report (67 pages)** — [`report-incident-9d204a49.pdf`](./docs/incident/report-incident-9d204a49.pdf):contentReference[oaicite:0]{index=0}
-- 🎓 **Certification:** [Rapid Incident Response v7 — Allante Johnson](./certs/1454694215AJ.pdf) (Issued Oct 3, 2025):contentReference[oaicite:1]{index=1}
+- 📘 **Incident Report (67 pages)** — [report-incident-9d204a49.pdf](./report-incident-9d204a49.pdf)
+- 🎓 **Certification:** [Rapid Incident Response v7 — Allante Johnson](./1454694215AJ.pdf)
 
 ---
 
